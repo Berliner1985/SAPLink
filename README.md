@@ -1,2 +1,2 @@
-# SAPLin
+# SAPLink
 > abapGit version of SAPLink objects
